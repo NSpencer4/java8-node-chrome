@@ -1,2 +1,2 @@
-# java8-node8-chrome
+# Java8-Node8-Chrome
 Java 8 | Node 8 | Chrome
