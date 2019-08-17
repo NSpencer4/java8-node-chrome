@@ -1,6 +1,6 @@
 FROM maven:3.5.0-jdk-8
 
-RUN curl -sL https://deb.nodesource.com/setup_11.x | bash - \
+RUN curl -sL https://deb.nodesource.com/setup_12.x | bash - \
   && apt-get update \
   && apt-get install -y nodejs \
   && wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb \
